@@ -30,3 +30,8 @@
 .recipe-card{
     width: 500px;
 }
+
+.line-style{
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+}

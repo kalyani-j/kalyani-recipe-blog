@@ -15,7 +15,8 @@
 }
 
 .image-style{
-margin-top: 2px;
-margin-bottom: 2px;
+    width: 100%;
+    object-fit: cover;
+    height: 300px; 
 
 }
