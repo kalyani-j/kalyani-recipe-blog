@@ -1,4 +1,6 @@
-
+body {
+    height: 100vh
+}
 .featured-img {
      width: 100%;
 }
