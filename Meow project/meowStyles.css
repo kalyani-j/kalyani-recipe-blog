@@ -4,7 +4,6 @@ body{
 }
 
 .cat-picture {
-    width: 50%;
-    object-fit: cover;
-    height: 300px; 
+    width:0rem;
+    height: 25%; 
 }
