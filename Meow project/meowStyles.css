@@ -1,22 +1,10 @@
-.cat-picture {
-    width: 300px;
-    background-color: aquamarine;
-}
-
-.background-page
-{
-    background-color: cornflowerblue;
-}
-
-.font-styling{
+body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: large;
-    
 }
 
-.image-style{
-    width: 100%;
+.cat-picture {
+    width: 50%;
     object-fit: cover;
     height: 300px; 
-
 }
