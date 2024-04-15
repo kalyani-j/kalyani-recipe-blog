@@ -1,39 +1,38 @@
 body {
-    height: 100vh
+  height: 100vh;
 }
 .featured-img {
-     width: 100%;
+  width: 100%;
 }
 
-@media(min-width: 576px){
-    .featured-img {
-        max-width: 540px;
-   }
+@media (min-width: 576px) {
+  .featured-img {
+    max-width: 540px;
+  }
 }
 
-@media(min-width: 768px){
-    .featured-img {
-        max-width: 700px;
-   }
+@media (min-width: 768px) {
+  .featured-img {
+    max-width: 700px;
+  }
 }
 
-
-@media(min-width: 1200px){
-    .featured-img {
-        max-width: 1100px;
-   }
-} 
+@media (min-width: 1200px) {
+  .featured-img {
+    max-width: 1100px;
+  }
+}
 
 /*.bg-image-index {
     background-image: url("../images/papad.JPG");
 }
 */
 
-.recipe-card{
-    width: 500px;
+.recipe-card {
+  width: 500px;
 }
 
-.line-style{
+.line-style {
   text-decoration-line: underline;
   text-decoration-style: solid;
 }
